@@ -1,5 +1,5 @@
 <picture>
-  <img alt="" src="https://www.codewars.com/users/SnLeo/badges/large">
+  <img alt="Codewars Badge" src="https://www.codewars.com/users/SnLeo/badges/small">
 </picture>
 
 <!--
