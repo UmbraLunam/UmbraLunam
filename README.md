@@ -1,6 +1,8 @@
-<picture>
-  <img alt="Codewars Badge" src="https://www.codewars.com/users/SnLeo/badges/small">
-</picture>
+<a href="https://www.codewars.com/users/SnLeo" rel="nofollow">
+   <img alt="Codewars Badge" src="https://www.codewars.com/users/SnLeo/badges/small">
+</a>
+  
+
 
 <!--
 **UmbraLunam/UmbraLunam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
